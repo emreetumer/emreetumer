@@ -69,7 +69,7 @@
 
 <h3 align="left">💼 Resume/CV</h3>
 <p align="left">
-  <a href="https://drive.google.com/file/d/your_resume_link/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1YTqWVJxEg-w9FJbUdKQA2TrnRuop-JvO/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=google-drive" alt="Download Resume" />
   </a>
 </p>
