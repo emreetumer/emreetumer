@@ -1,22 +1,22 @@
 ![MasterHead](https://i.pinimg.com/originals/38/7e/4f/387e4f52081bfebd6ba96d9d784e9f94.gif)
 
 <h1 align="center">Hi 👋, I'm Emre Tümer</h1>
-<h3 align="left">A motivated developer committed to continuous learning and growth.</h3>
+<h3 align="center">A passionate developer committed to continuous learning and growth.</h3>
 
 🌱 Currently exploring **ASP .NET Core MVC** and enhancing my skills in web development.  
 📫 Reach me at: **[emreetumer0@gmail.com](mailto:emreetumer0@gmail.com)**
 
-
+---
 
 <h3 align="left">🌐 Connect with me:</h3>
-<a href="https://linkedin.com/in/emretumerr" target="blank">
-  <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
-</a>
-<a href="https://instagram.com/_emretumer" target="blank">
-  <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
-</a>
-
-<br><br>
+<p align="left">
+  <a href="https://linkedin.com/in/emretumerr" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
+  </a>
+  <a href="https://instagram.com/_emretumer" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
+  </a>
+</p>
 
 ---
 
@@ -52,12 +52,31 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50" />
   </a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter Notebook" width="50" height="50" />
+  </a>
 </p>
 
-
+---
 
 <h3 align="left">📊 GitHub Stats</h3>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=emreetumer&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emreetumer&langs_count=8&layout=compact&theme=radical" alt="Top Languages" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emreetumer&langs_count=10&layout=compact&theme=radical" alt="Top Languages" width="40%" />
+</p>
+
+---
+
+<h3 align="left">💼 Resume/CV</h3>
+<p align="left">
+  <a href="https://drive.google.com/file/d/your_resume_link/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=google-drive" alt="Download Resume" />
+  </a>
+</p>
+
+---
+
+<h3 align="left">💡 Random Developer Quote</h3>
+<p align="left">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Developer Quote" />
 </p>
