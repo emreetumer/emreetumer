@@ -67,14 +67,14 @@
 
 ---
 
-<h3 align="left">💼 Resume/CV</h3>
+<!-- 
+<h3 align="left">📊 GitHub Stats</h3>
 <p align="left">
-  <a href="https://drive.google.com/file/d/1YTqWVJxEg-w9FJbUdKQA2TrnRuop-JvO/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=google-drive" alt="Download Resume" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=emreetumer&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emreetumer&langs_count=10&layout=compact&theme=radical" alt="Top Languages" width="40%" />
 </p>
+-->
 
----
 
 <h3 align="left">💡 Random Developer Quote</h3>
 <p align="left">
