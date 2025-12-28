@@ -111,25 +111,25 @@ learning: Always improving! 📚
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=emreetumer&show_icons=true&count_private=true&hide_border=true&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&bg_color=0d1117" alt="Emre Tümer's GitHub Stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emreetumer&hide_border=true&title_color=6366f1&text_color=c9d1d9&bg_color=0d1117&langs_count=10&hide_progress=false" alt="Top Languages" />
+  <a href="https://github.com/emreetumer">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=emreetumer&show_icons=true&count_private=true&hide_border=true&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&bg_color=0d1117" alt="Emre Tümer Stats" /> 
+  </a>
+  <a href="https://github.com/emreetumer">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emreetumer&hide_border=true&title_color=6366f1&text_color=c9d1d9&bg_color=0d1117&langs_count=8&layout=compact" alt="Top Languages" />
+  </a>
 </div>
+
+<br />
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emreetumer&layout=donut&hide_border=true&title_color=6366f1&text_color=c9d1d9&bg_color=0d1117&langs_count=6" alt="Languages Donut Chart" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emreetumer&layout=pie&hide_border=true&title_color=6366f1&text_color=c9d1d9&bg_color=0d1117&langs_count=6" alt="Languages Pie Chart" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emreetumer&theme=tokyonight_duo&hide_border=true&background=0D1117&stroke=6366f1&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" alt="GitHub Streak" width="98%" />
 </div>
+
+<br />
 
 <div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=emreetumer&theme=tokyonight_duo&hide_border=true&background=0D1117&stroke=6366f1&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=emreetumer&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="98%"/>
 </div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=emreetumer&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="90%"/>
-</div>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 💼 What I Do
 
