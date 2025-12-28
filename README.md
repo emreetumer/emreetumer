@@ -1,118 +1,138 @@
-<div align="center">
+<h1 align="center">Hi 👋 I'm Emre Tümer</h1>
+<h3 align="center">Full Stack Developer | .NET Backend Specialist</h3>
 
-# 👋 Hi, I'm Emre Tümer
-
-### Full Stack Developer | .NET Backend Specialist | Microservices Architect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/emretumerr)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:emreetumer0@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=emreetumer&color=blue&style=flat-square)
-
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/emretumerr"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:emreetumer0@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <img src="https://komarev.com/ghpvc/?username=emreetumer&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
+</p>
 
 ---
 
-## 🚀 About Me
+### 👨‍💻 About Me
+
+🔭 Currently working on **enterprise SaaS applications** with microservices architecture  
+💡 Specializing in **ASP.NET Core Web APIs** and scalable backend solutions  
+🏗️ Building systems with **Clean Architecture**, **CQRS**, and **best practices**  
+🐳 Experienced in **Docker containerization** for modern deployments  
+📚 Continuously learning and improving software architecture patterns  
+
+---
+
+### 🛠️ Core Technologies & Expertise
+
+#### Backend Development (Expert Level)
+<p>
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="ASP.NET Core">
+  <img src="https://img.shields.io/badge/Web_API-0078D4?style=for-the-badge&logo=swagger&logoColor=white" alt="Web API">
+</p>
+
+#### Database & ORM
+<p>
+  <img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MSSQL">
+  <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="Entity Framework">
+</p>
+
+#### Architecture & Design Patterns
+<p>
+  <img src="https://img.shields.io/badge/Microservices-1572B6?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Microservices">
+  <img src="https://img.shields.io/badge/Clean_Architecture-00599C?style=for-the-badge&logo=blueprint&logoColor=white" alt="Clean Architecture">
+  <img src="https://img.shields.io/badge/CQRS-FF6B6B?style=for-the-badge&logo=serverless&logoColor=white" alt="CQRS">
+  <img src="https://img.shields.io/badge/RESTful_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST">
+  <img src="https://img.shields.io/badge/Repository_Pattern-4A90E2?style=for-the-badge&logo=git&logoColor=white" alt="Repository Pattern">
+</p>
+
+#### Frontend Development
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+</p>
+
+#### DevOps & Tools
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+</p>
+
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=emreetumer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emreetumer&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="165">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emreetumer&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+</p>
+
+---
+
+### 💼 What I Bring to the Table
 
 ```csharp
 public class EmreTumer : FullStackDeveloper
 {
-    public string[] BackendExpertise => new[]
+    private readonly string[] _backendExpertise = 
     {
         "ASP.NET Core Web API Development",
-        "Microservices Architecture with Clean Code",
-        "CQRS Pattern & Repository Design",
-        "Entity Framework Core & MSSQL",
-        "RESTful API Design & Implementation",
-        "Docker Containerization"
+        "Microservices Architecture Design",
+        "Clean Architecture Implementation",
+        "CQRS Pattern & Event Sourcing",
+        "Entity Framework Core & Database Design",
+        "Authentication & Authorization (JWT, Identity)",
+        "RESTful API Best Practices"
     };
     
-    public string[] FrontendSkills => new[]
+    private readonly string[] _additionalSkills = 
     {
-        "Next.js & React Development",
-        "Modern JavaScript (ES6+)",
-        "Responsive Web Design"
+        "Docker Containerization",
+        "Next.js Frontend Development",
+        "Git Version Control",
+        "Agile/Scrum Methodology",
+        "Problem Solving & Debugging"
     };
     
-    public string CurrentFocus => "Building scalable SaaS applications with .NET microservices";
+    public string CurrentFocus => 
+        "Building scalable, maintainable SaaS solutions with modern .NET stack";
+    
+    public bool IsAvailableForOpportunities => true;
 }
 ```
 
 ---
 
-## 🛠️ Technology Stack
-
-### Backend Development
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=.net&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat-square&logo=.net&logoColor=white)
-
-### Frontend Development
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-### Database & Tools
-![MSSQL](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-### Architecture & Patterns
-![Microservices](https://img.shields.io/badge/Microservices-1572B6?style=flat-square&logo=kubernetes&logoColor=white)
-![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-00599C?style=flat-square&logo=blueprint&logoColor=white)
-![CQRS](https://img.shields.io/badge/CQRS-FF6B6B?style=flat-square&logo=serverless&logoColor=white)
-![RESTful API](https://img.shields.io/badge/REST%20API-009688?style=flat-square&logo=fastapi&logoColor=white)
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=emreetumer&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emreetumer&layout=compact&theme=dark&langs_count=6" alt="Top Languages"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=emreetumer&theme=dark" alt="GitHub Streak"/>
-
-</div>
-
----
-
-## 💼 Professional Skills
+### 🎯 Key Strengths
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-### Backend Development
-- ASP.NET Core Web API
-- Microservices Architecture
-- Clean Architecture & SOLID
-- CQRS Pattern
-- Entity Framework Core
-- RESTful API Design
-- Authentication & Authorization
-- Database Design & Optimization
+#### 🏗️ Backend Architecture
+- Designing microservices from scratch
+- Implementing clean & maintainable code
+- Database optimization & query tuning
+- API security & authentication
+- Performance optimization
+- Unit testing & best practices
 
 </td>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-### Frontend & Tools
-- Next.js Development
-- JavaScript (ES6+)
-- Responsive Web Design
-- Docker Containerization
-- Git & Version Control
-- Postman API Testing
-- Agile Methodology
-- Problem Solving
+#### 🚀 Full Stack Capabilities
+- End-to-end application development
+- RESTful API design & documentation
+- Modern frontend with Next.js
+- Docker containerization
+- CI/CD pipeline understanding
+- Team collaboration & code reviews
 
 </td>
 </tr>
@@ -120,20 +140,21 @@ public class EmreTumer : FullStackDeveloper
 
 ---
 
-<div align="center">
-
-### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
-
----
-
 ### 📫 Let's Connect
 
-Building modern, scalable applications with clean code and best practices.  
-Open to interesting projects and collaborations.
+<p align="center">
+  <a href="https://linkedin.com/in/emretumerr">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:emreetumer0@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Reach_out-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/emretumerr)
-[![Email](https://img.shields.io/badge/-Send%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emreetumer0@gmail.com)
+<p align="center">
+  <i>"Building clean, scalable solutions with modern technology stacks"</i>
+</p>
 
-⭐️ From [emreetumer](https://github.com/emreetumer)
-
-</div>
+<p align="center">
+  ⭐️ From <a href="https://github.com/emreetumer">emreetumer</a>
+</p>
