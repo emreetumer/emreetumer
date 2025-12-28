@@ -112,7 +112,12 @@ learning: Always improving! 📚
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=emreetumer&show_icons=true&count_private=true&hide_border=true&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&bg_color=0d1117" alt="Emre Tümer's GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emreetumer&layout=compact&hide_border=true&title_color=6366f1&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emreetumer&hide_border=true&title_color=6366f1&text_color=c9d1d9&bg_color=0d1117&langs_count=10&hide_progress=false" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emreetumer&layout=donut&hide_border=true&title_color=6366f1&text_color=c9d1d9&bg_color=0d1117&langs_count=6" alt="Languages Donut Chart" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emreetumer&layout=pie&hide_border=true&title_color=6366f1&text_color=c9d1d9&bg_color=0d1117&langs_count=6" alt="Languages Pie Chart" />
 </div>
 
 <div align="center">
