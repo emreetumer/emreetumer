@@ -21,7 +21,7 @@
 
 ### 🛠️ Core Technologies & Expertise
 
-#### Backend Development (Expert Level)
+#### Backend Development
 <p>
   <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
@@ -64,14 +64,14 @@
 
 ### 📊 GitHub Statistics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emreetumer&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true&custom_title=Emre's%20GitHub%20Stats" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emreetumer&layout=compact&theme=radical&hide_border=false&langs_count=8&custom_title=Most%20Used%20Languages" alt="Top Languages" width="48%">
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=emreetumer&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emreetumer&layout=compact&theme=vue-dark&langs_count=8" height="170" />
+</p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=emreetumer&theme=radical&hide_border=false" alt="GitHub Streak" width="70%">
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=emreetumer&theme=vue-dark" />
+</p>
 
 ---
 
@@ -80,7 +80,7 @@
 ```csharp
 public class EmreTumer : FullStackDeveloper
 {
-    private readonly string[] _backendExpertise = 
+    private readonly string[] _backendSkills = 
     {
         "ASP.NET Core Web API Development",
         "Microservices Architecture Design",
