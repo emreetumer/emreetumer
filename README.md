@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Emre Tümer</h1>
-<h3 align="center">Full Stack Developer | .NET Backend Specialist</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/emretumerr"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -65,12 +65,8 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emreetumer&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emreetumer&layout=compact&theme=vue-dark&langs_count=8" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=emreetumer&theme=vue-dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=emreetumer&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emreetumer&langs_count=8&layout=compact&theme=radical" alt="Top Languages" width="48%" />
 </p>
 
 ---
