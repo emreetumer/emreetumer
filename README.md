@@ -112,10 +112,10 @@ learning: Always improving! 📚
 
 <div align="center">
   <a href="https://github.com/emreetumer">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=emreetumer&hide_border=true&title_color=6366f1&text_color=c9d1d9&bg_color=0d1117&langs_count=8&layout=compact&count_private=true" alt="Top Languages" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=emreetumer&layout=compact&hide_border=true&title_color=6366f1&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
   </a>
   <a href="https://github.com/emreetumer">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=emreetumer&show_icons=true&count_private=true&hide_border=true&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&bg_color=0d1117" alt="Emre Tümer Stats" /> 
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=emreetumer&show_icons=true&hide_border=true&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&bg_color=0d1117" alt="Emre Tümer Stats" /> 
   </a>
 </div>
 
