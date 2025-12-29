@@ -14,7 +14,6 @@
     <a href="mailto:emreetumer0@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
-    <img src="https://komarev.com/ghpvc/?username=emreetumer&style=for-the-badge&color=6366f1" alt="Profile Views"/>
   </p>
   
 </div>
@@ -58,15 +57,12 @@ learning: Always improving! 📚
 </p>
 <p>
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
+  <img src="https://img.shields.io/badge/.NET_9-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
   <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
   <img src="https://img.shields.io/badge/Web_API-0078D4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Web API"/>
 </p>
 
 ### 🗄️ Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
-</p>
 <p>
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="MSSQL"/>
   <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework"/>
@@ -109,7 +105,7 @@ learning: Always improving! 📚
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📊 GitHub Analytics
-
+<!-- Animated Divider 
 <div align="center">
   <a href="https://github.com/emreetumer">
     <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=emreetumer&layout=compact&hide_border=true&title_color=6366f1&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
@@ -119,7 +115,7 @@ learning: Always improving! 📚
   </a>
 </div>
 
-<br />
+<br /> -->
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=emreetumer&theme=tokyonight_duo&hide_border=true&background=0D1117&stroke=6366f1&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" alt="GitHub Streak" width="98%" />
