@@ -116,12 +116,12 @@ learning: Always improving! 📚
 </div>
 
 <br /> -->
-
+<!--
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=emreetumer&theme=tokyonight_duo&hide_border=true&background=0D1117&stroke=6366f1&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" alt="GitHub Streak" width="98%" />
 </div>
 
-<br />
+<br />-->
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=emreetumer&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="98%"/>
