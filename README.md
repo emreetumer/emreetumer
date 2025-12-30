@@ -107,11 +107,11 @@ learning: Always improving! 📚
 ## 📊 GitHub Analytics
 <div align="center">
   <a href="https://github.com/emreetumer">
-    <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emreetumer&layout=compact&hide_border=true&title_color=6366f1&text_color=c9d1d9&bg_color=0d1117&langs_count=8&exclude_repo=github-readme-stats,emreetumer" />
+    <img height="180" align="center" src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs?username=emreetumer&layout=compact&hide_border=true&title_color=6366f1&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages" />
   </a>
   
   <a href="https://github.com/emreetumer">
-    <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=emreetumer&show_icons=true&hide_border=true&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&bg_color=0d1117" />
+    <img height="180" align="center" src="https://github-readme-stats-rickstaa.vercel.app/api?username=emreetumer&show_icons=true&hide_border=true&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&bg_color=0d1117" alt="Emre Tumer Stats" />
   </a>
 </div>
 
